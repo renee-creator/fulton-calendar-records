@@ -9,6 +9,11 @@
       "id": "cal2",
       "name": "Fulton Community School & Farm",
       "color": "plum"
+    },
+    {
+      "id": "cal3",
+      "name": "Conferences",
+      "color": "clay"
     }
   ],
   "spaces": [
