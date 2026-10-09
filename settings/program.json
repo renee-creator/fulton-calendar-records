@@ -173,5 +173,52 @@
   ],
   "dayStart": 420,
   "dayEnd": 1080,
-  "weekends": true
+  "weekends": true,
+  "classes": [
+    "West",
+    "North",
+    "South"
+  ],
+  "groups": [
+    {
+      "name": "Cosmos",
+      "room": "West"
+    },
+    {
+      "name": "Yarrow",
+      "room": "West"
+    },
+    {
+      "name": "Zinnia",
+      "room": "West"
+    },
+    {
+      "name": "Borage",
+      "room": "West"
+    },
+    {
+      "name": "Marigold",
+      "room": "North"
+    },
+    {
+      "name": "Morning Glory",
+      "room": "North"
+    },
+    {
+      "name": "Sunflower",
+      "room": "North"
+    },
+    {
+      "name": "Poppy",
+      "room": "South"
+    },
+    {
+      "name": "Lavender",
+      "room": "South"
+    },
+    {
+      "name": "Iris",
+      "room": "South"
+    }
+  ]
 }
