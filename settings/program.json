@@ -2,12 +2,12 @@
   "calendars": [
     {
       "id": "cal1",
-      "name": "School calendar",
+      "name": "CFC internal",
       "color": "sky"
     },
     {
       "id": "cal2",
-      "name": "Second calendar",
+      "name": "Fulton Community School & Farm",
       "color": "plum"
     }
   ],
