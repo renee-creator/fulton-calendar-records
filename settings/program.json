@@ -1,0 +1,10 @@
+{
+  "calendars": [
+    { "id": "cal1", "name": "School calendar", "color": "sky" },
+    { "id": "cal2", "name": "Second calendar", "color": "plum" }
+  ],
+  "spaces": [],
+  "dayStart": 420,
+  "dayEnd": 1080,
+  "weekends": true
+}
