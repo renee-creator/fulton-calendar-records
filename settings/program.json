@@ -1,9 +1,171 @@
 {
   "calendars": [
-    { "id": "cal1", "name": "School calendar", "color": "sky" },
-    { "id": "cal2", "name": "Second calendar", "color": "plum" }
+    {
+      "id": "cal1",
+      "name": "School calendar",
+      "color": "sky"
+    },
+    {
+      "id": "cal2",
+      "name": "Second calendar",
+      "color": "plum"
+    }
   ],
-  "spaces": [],
+  "spaces": [
+    {
+      "id": "library",
+      "name": "Library",
+      "color": "slate",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "classroom",
+      "name": "Classroom",
+      "color": "teal",
+      "note": "",
+      "shared": true,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "artatelier",
+      "name": "Art atelier",
+      "color": "marigold",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "natureatelier",
+      "name": "Nature atelier",
+      "color": "moss",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "culinaryatelier",
+      "name": "Culinary atelier",
+      "color": "clay",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "indoorpiazza",
+      "name": "Indoor piazza",
+      "color": "plum",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "outdoorpiazza",
+      "name": "Outdoor piazza",
+      "color": "rose",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "northyard",
+      "name": "North yard",
+      "color": "sky",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "rabbityard",
+      "name": "Rabbit yard",
+      "color": "marigold",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "garden",
+      "name": "Garden",
+      "color": "moss",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "tireswingyard",
+      "name": "Tire swing yard",
+      "color": "teal",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "tireswingstudio",
+      "name": "Tire swing studio",
+      "color": "clay",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "logyard",
+      "name": "Log yard",
+      "color": "slate",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "logstudio",
+      "name": "Log studio",
+      "color": "rose",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "longyard",
+      "name": "Long yard",
+      "color": "plum",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "goatyard",
+      "name": "Goat yard",
+      "color": "sky",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": false
+    },
+    {
+      "id": "largegroupyard",
+      "name": "Large group yard",
+      "color": "marigold",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": true
+    }
+  ],
   "dayStart": 420,
   "dayEnd": 1080,
   "weekends": true
