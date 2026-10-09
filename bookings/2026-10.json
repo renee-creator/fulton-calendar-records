@@ -3,7 +3,7 @@
   "items": {
     "ec7dfa655a": {
       "id": "ec7dfa655a",
-      "spaceId": "lgtireswing",
+      "spaceId": "lglogyard",
       "date": "2026-10-05",
       "start": 0,
       "end": 1440,
@@ -11,7 +11,9 @@
       "what": "",
       "createdAt": 1791570665503,
       "week": true,
-      "group": "All classes together"
+      "group": "All classes together",
+      "updatedByName": "Renee",
+      "updatedAt": 1791570686969
     }
   }
 }
