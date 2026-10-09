@@ -18,6 +18,24 @@
   ],
   "spaces": [
     {
+      "id": "lgtireswing",
+      "name": "Large group, Tire swing yard",
+      "color": "marigold",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": true
+    },
+    {
+      "id": "lglogyard",
+      "name": "Large group, Log yard",
+      "color": "clay",
+      "note": "",
+      "shared": false,
+      "hidden": false,
+      "byWeek": true
+    },
+    {
       "id": "library",
       "name": "Library",
       "color": "slate",
@@ -27,8 +45,8 @@
       "byWeek": false
     },
     {
-      "id": "classroom",
-      "name": "Classroom",
+      "id": "westclassroom",
+      "name": "West classroom",
       "color": "teal",
       "note": "",
       "shared": true,
@@ -36,20 +54,20 @@
       "byWeek": false
     },
     {
-      "id": "artatelier",
-      "name": "Art atelier",
-      "color": "marigold",
+      "id": "northclassroom",
+      "name": "North classroom",
+      "color": "moss",
       "note": "",
-      "shared": false,
+      "shared": true,
       "hidden": false,
       "byWeek": false
     },
     {
-      "id": "natureatelier",
-      "name": "Nature atelier",
-      "color": "moss",
+      "id": "southclassroom",
+      "name": "South classroom",
+      "color": "slate",
       "note": "",
-      "shared": false,
+      "shared": true,
       "hidden": false,
       "byWeek": false
     },
@@ -67,7 +85,7 @@
       "name": "Indoor piazza",
       "color": "plum",
       "note": "",
-      "shared": false,
+      "shared": true,
       "hidden": false,
       "byWeek": false
     },
@@ -76,7 +94,7 @@
       "name": "Outdoor piazza",
       "color": "rose",
       "note": "",
-      "shared": false,
+      "shared": true,
       "hidden": false,
       "byWeek": false
     },
@@ -160,15 +178,6 @@
       "shared": false,
       "hidden": false,
       "byWeek": false
-    },
-    {
-      "id": "largegroupyard",
-      "name": "Large group yard",
-      "color": "marigold",
-      "note": "",
-      "shared": false,
-      "hidden": false,
-      "byWeek": true
     }
   ],
   "dayStart": 420,
